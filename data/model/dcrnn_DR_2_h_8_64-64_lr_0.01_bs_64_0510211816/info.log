@@ -1,0 +1,3 @@
+2023-05-10 21:18:16,367 - model.pytorch.dcrnn_supervisor_eval - INFO - Log directory: data/model\dcrnn_DR_2_h_8_64-64_lr_0.01_bs_64_0510211816/
+2023-05-10 21:18:17,585 - model.pytorch.dcrnn_supervisor_eval - INFO - Model created
+2023-05-10 21:18:51,905 - model.pytorch.dcrnn_supervisor_eval - INFO - Loaded model at 83
